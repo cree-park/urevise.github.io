@@ -1,0 +1,21 @@
+I"�<h1 id="vscode-설정-및-단축키">vscode 설정 및 단축키</h1>
+
+<h2 id="확장-앱">확장 앱</h2>
+<ul>
+  <li>live server</li>
+  <li>auto rename tag</li>
+  <li>beautify</li>
+  <li>bracket pair colorizer</li>
+  <li>git history</li>
+  <li>git graph</li>
+</ul>
+
+<h2 id="단축키-for-mac">단축키 for Mac</h2>
+<ul>
+  <li>환경설정 command ⌘ ,</li>
+  <li>명령어 입력 command ⌘ shift ⇧ p</li>
+  <li>다중 항목 선택 커서 위/아래 추가 option ⌥ + command ⌘ + 화살표 위/아래</li>
+  <li>선택한 영역과 동일한 영역 선택 command ⌘ + D</li>
+  <li>드래그 후 라인 선택 option ⌥ + shift ⇧ + 드래그</li>
+</ul>
+:ET
